@@ -1,0 +1,32 @@
+table,th,td{
+    border: 2px solid skyblue;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2{
+    color:slateblue;
+}
+
+h1,h2,td{
+    text-align: center;
+}
+
+.tag{
+    font-family: monospace;
+}
+
+span{
+    background-color: slateblue;
+}
+
+.description{
+    text-align: left;
+}
+
+th{
+    background-color: skyblue;
+}
