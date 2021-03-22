@@ -17,9 +17,7 @@ h1,h2,td{
 
 .tag{
     font-family: monospace;
-}
-
-span{
+    color: navajowhite;
     background-color: slateblue;
 }
 
